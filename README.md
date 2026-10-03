@@ -29,7 +29,7 @@ integrate only through explicit contracts.
 
 - **Executive Computer Systems** — my company. Windows Server, SQL Server, and
   Azure since 1993.
-- **Author of 11 NuGet packages**, including the `EXCSLA.Shared` and
+- **Author of 42 NuGet packages**, including the `EXCSLA.Shared.Core` and
   `EXCSLA.Core.Common` clean-architecture / DDD libraries.
 - **Named collaborator on [BlazorStrap](https://github.com/chanan/BlazorStrap).**
 - Louisiana journeyman plumber and gas fitter.
